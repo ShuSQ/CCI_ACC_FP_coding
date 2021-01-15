@@ -16,7 +16,7 @@ You can also view two versions of my code on jsfiddle: </br>
 
 *example: Noise&Osc*
 
-You can also view my demo video:
+You can also view my demo on Youtube:
 
 #### [CCI_ACC_FP_audioVisualiser](https://www.youtube.com/watch?v=2ZJa9D-FDN8)
 
