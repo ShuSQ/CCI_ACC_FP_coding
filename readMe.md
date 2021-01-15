@@ -16,6 +16,7 @@ You can also view two versions of my code on jsfiddle: </br>
 ![](https://miro.medium.com/max/2000/1*y0XH4zc82Rtc6eIRYoO9LQ.png)
 
 *example: Noise&Osc*
+</br>
 
 ### 0. Why did I do this project?
 
