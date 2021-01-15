@@ -18,14 +18,14 @@ You can also view two versions of my code on jsfiddle:
 
 "withoutNoise&Osc" example:
 
-![](https://miro.medium.com/max/2000/1*zyFn9ywwCByy8ncCKXh6HQ.png)
+![](https://cdn-images-1.medium.com/max/2400/1*fTt1mjwlD6LLjl2dt9yN2g.gif)
 
 
 #### [🧩 CCI_ACC_FP_audioVisualiser (Noise&Osc)](https://jsfiddle.net/SQShu/n1pd8abk/15/)
 
 "Noise&Osc" example:
 
-![](https://miro.medium.com/max/2000/1*y0XH4zc82Rtc6eIRYoO9LQ.png)
+![](https://cdn-images-1.medium.com/max/2400/1*xDStUtS3uDf3BDvQpvoXCA.gif)
 
 
 </br>
