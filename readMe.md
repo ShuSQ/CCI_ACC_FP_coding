@@ -15,16 +15,17 @@ You can also view two versions of my code on jsfiddle:
 
 #### [🧩 CCI_ACC_FP_audioVisualiser (withoutNoise&Osc)](https://jsfiddle.net/SQShu/68w9fmhg/12/)
 
-![](https://miro.medium.com/max/2000/1*zyFn9ywwCByy8ncCKXh6HQ.png)
+"withoutNoise&Osc" example:
 
-*example: withoutNoise&Osc*
+![](https://miro.medium.com/max/2000/1*zyFn9ywwCByy8ncCKXh6HQ.png)
 
 
 #### [🧩 CCI_ACC_FP_audioVisualiser (Noise&Osc)](https://jsfiddle.net/SQShu/n1pd8abk/15/)
 
+"Noise&Osc" example:
+
 ![](https://miro.medium.com/max/2000/1*y0XH4zc82Rtc6eIRYoO9LQ.png)
 
-*example: Noise&Osc*
 
 </br>
 
