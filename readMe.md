@@ -88,6 +88,13 @@ There are a lot of thorny issues in this part, but it is also very exciting. Aft
 
 *by [Jaume Sanchez](https://www.clicktorelease.com/)*
 
+![](https://cdn-images-1.medium.com/max/1600/1*p2xkutGZAnXcbe3OOaSOqQ.gif)
+*After adding noise, you will see the surface change*
+
+![](https://cdn-images-1.medium.com/max/1600/1*CLSuBprEObYcdRIOr6GjFw.gif)
+*After adding Oscwave*
+The sphere will be displaced according to Osc, that is, we do not play audio. If you are in use, you can hear the beat sound provided by Oscwave. You can hear the wave sound in my JSFiddle example and YouTube video, or you can follow any Method to adjust the pitch and amplitude of this sound, but because I will upload audio, I set it very small, more like a beat.
+
 I learned a lot from these articles:
 
 * [Vertex displacement with a noise function using GLSL and three.js](https://www.clicktorelease.com/blog/vertex-displacement-noise-3d-webgl-glsl-three-js/)
