@@ -93,6 +93,7 @@ There are a lot of thorny issues in this part, but it is also very exciting. Aft
 
 ![](https://cdn-images-1.medium.com/max/1600/1*CLSuBprEObYcdRIOr6GjFw.gif)
 *After adding Oscwave*
+
 The sphere will be displaced according to Osc, that is, we do not play audio. If you are in use, you can hear the beat sound provided by Oscwave. You can hear the wave sound in my JSFiddle example and YouTube video, or you can follow any Method to adjust the pitch and amplitude of this sound, but because I will upload audio, I set it very small, more like a beat.
 
 I learned a lot from these articles:
