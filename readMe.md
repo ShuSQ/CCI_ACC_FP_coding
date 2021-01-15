@@ -63,6 +63,7 @@ The following articles are very helpful for learning Web Audio API:
 Idea Realization: create elements -> use array variables -> create dat.gui.js control panel (optional)
 
 Create 3D scenes, cameras, light sources and objects through three.js, pay attention to selecting the shaderMaterial() type when selecting the material, and then you need to colour the object through GLSL ES; pass the filtered array to the makeRoughBall() function to create the surface undulations; I used dat.gui.js, which can control the rotation speed of the object in three directions in the scene, and adjust it to the suitable angle to better view the model.
+
 ![](https://cdn-images-1.medium.com/max/2400/1*DsxFhGQ5YXRmkOrcheQx5Q.png)
 *After rendering the scene, you will see a sphere that can be colored*
 
