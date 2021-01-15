@@ -93,7 +93,7 @@ I learned a lot from these articles:
 Some minor optimizations are made to the Web GUI, the MajorMonoDisplay font is introduced, the click animation of the upload button is adjusted, and the color and spacing of some elements are adjusted to make the Web experience more comfortable and smooth.
 </br>
 
-### 5.Can Do More
+### 5.Can do more
 
 I also want to try to transfer more physical world data to virtual objects, to achieve richer interaction. When preparing this project, I also saw more excellent cases, such as [How to Create a Webcam Audio Visualizer with Three.js](https://tympanus.net/codrops/2019/09/06/how-to-create-a-webcam-audio-visualizer-with-three-js/) and [WebGL Particle Audio In Visualzer](https://experiments.withgoogle.com/webgl-particle-audio-visualizer), the data collected by the camera and the microphone are transferred to the computer to produce interesting interaction. I also consider that in future projects, Learn in these directions.
 
