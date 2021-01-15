@@ -2,6 +2,21 @@
 
 > Summary: My final project is a web tool for audio visualization. It reads audio data through the Web Audio API and converts it into an array. The array is mapped as a variable to the 3D object created by three.js to achieve dynamic effects; Maximilian.js passed Oscwave to the shader as a uniform float, and the noise function is added to create a new visual effect; dat.gui.js is added, allowing users to adjust the parameters in three.js to make it more interesting!
 
+You can also view two versions of my code on jsfiddle:
+[CCI_ACC_FP_audioVisualiser (withoutNoise&Osc)](https://jsfiddle.net/SQShu/68w9fmhg/12/)
+
+![](https://miro.medium.com/max/2000/1*zyFn9ywwCByy8ncCKXh6HQ.png)
+
+*example: withoutNoise&Osc*
+
+</br>
+
+[CCI_ACC_FP_audioVisualiser (Noise&Osc)](https://jsfiddle.net/SQShu/n1pd8abk/15/)
+
+![](https://miro.medium.com/max/2000/1*y0XH4zc82Rtc6eIRYoO9LQ.png)
+
+*example: Noise&Osc*
+
 ### 0. Why did I do this project?
 
 The work of audio visualization can be found in many electronic MVs and interactive art. I am also interested in the direction of visualization. After I saw [a great work in vertexshaderart](https://www.vertexshaderart.com/art/nNYZMHxiLMR2xAncW) (this is really a cool particle sphere), I decided to try to do the challenge of visual audio. Before that, I didn't have much experience, but in the end, I did it. Cheers!
