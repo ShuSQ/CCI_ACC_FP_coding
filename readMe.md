@@ -114,7 +114,7 @@ I learned a lot from these articles:
 
 </br>
 
-### 4.Check and djust 🩺
+### 4.Check and adjust 🩺
 
 Some minor optimizations are made to the Web GUI, the MajorMonoDisplay font is introduced, the click animation of the upload button is adjusted, and the color and spacing of some elements are adjusted to make the Web experience more comfortable and smooth.
 </br>
