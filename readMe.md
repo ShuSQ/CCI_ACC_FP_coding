@@ -2,7 +2,7 @@
 
 > Summary: My final project is a web tool for audio visualization. It reads audio data through the Web Audio API and converts it into an array. The array is mapped as a variable to the 3D object created by three.js to achieve dynamic effects; Maximilian.js passed Oscwave to the shader as a uniform float, and the noise function is added to create a new visual effect; dat.gui.js is added, allowing users to adjust the parameters in three.js to make it more interesting!
 
-You can also view two versions of my code on jsfiddle:
+You can also view two versions of my code on jsfiddle: </br>
 [CCI_ACC_FP_audioVisualiser (withoutNoise&Osc)](https://jsfiddle.net/SQShu/68w9fmhg/12/)
 
 ![](https://miro.medium.com/max/2000/1*zyFn9ywwCByy8ncCKXh6HQ.png)
