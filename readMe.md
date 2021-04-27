@@ -14,14 +14,14 @@ You can also view my demo on Youtube:
 
 You can also view two versions of my code on jsfiddle: 
 
-#### [🧩 CCI_ACC_FP_audioVisualiser (withoutNoise&Osc)](https://jsfiddle.net/SQShu/68w9fmhg/12/)
+#### [🧩 CCI_ACC_FP_audioVisualiser (withoutNoise&Osc)](https://thx6j.csb.app/)
 
 "withoutNoise&Osc" example:
 
 ![](https://miro.medium.com/max/1000/1*LA4ctG8OS3qURz5RVWQurg.gif)
 
 
-#### [🧩 CCI_ACC_FP_audioVisualiser (Noise&Osc)](https://jsfiddle.net/SQShu/n1pd8abk/15/)
+#### [🧩 CCI_ACC_FP_audioVisualiser (Noise&Osc)](https://gzrkq.csb.app/)
 
 "Noise&Osc" example:
 
